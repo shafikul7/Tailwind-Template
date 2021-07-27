@@ -1,0 +1,31 @@
+{
+    "name": "personal_portfolio_tailwind_template",
+    "version": "1.0.1",
+    "description": "Personal Portfolio HTML Template Tailwindcss sass",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "sass --watch scss:assets/css"
+    },
+    "keywords": [
+        "Personal",
+        "Portfolio",
+        "tailwind-template",
+        "personal-portfolio-html",
+        "html5",
+        "sass",
+        "scss",
+        "tailwindcss",
+        "css3"
+    ],
+    "author": "Md.Shafikul islam",
+    "license": "ISC",
+    "devDependencies": {
+        "sass": "^1.36.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.3",
+        "autoprefixer": "^10.3.1",
+        "postcss-cli": "^8.3.1",
+        "tailwindcss": "^2.2.7"
+    }
+}
