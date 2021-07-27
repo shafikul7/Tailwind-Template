@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,IAAI,CAAJ,gEAAI;AACJ,IAAI,CAAJ,iEAAI;AACJ,IAAI,CAAJ,qEAAI;AACJ,IAAI,CAAJ,+DAAI",
+    "sources": [
+        "fontawesome.scss"
+    ],
+    "names": [],
+    "file": "fontawesome.css"
+}
